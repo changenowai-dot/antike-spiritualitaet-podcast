@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 09:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:22:34 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Carl Jungs Himmelsrätsel: Die Ufo-Projektion des kollektiven Unbewussten</title>
+      <itunes:title>Carl Jungs Himmelsrätsel: Die Ufo-Projektion des kollektiven Unbewussten</itunes:title>
+      <link>https://youtu.be/qeyB0Q3w20g</link>
+      <description><![CDATA[<p>Was bedeuten die rätselhaften Scheiben am Himmelszelt wirklich? Carl Gustav Jung analysierte Himmelsphänomene nicht als bloße Flugobjekte, sondern als mächtiges Seelensymbol der Moderne. In Zeiten kollektiver Not projiziert die menschliche Psyche ihre Sehnsucht nach Ordnung und Ganzheit an das Firmament. Diese Episode entschlüsselt die Verbindung zwischen antiker Alchemie, dem kosmischen Mandala und der verborgenen Dimension unseres eigenen Bewusstseins.</p><p>Video: <a href="https://youtu.be/qeyB0Q3w20g">https://youtu.be/qeyB0Q3w20g</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Was bedeuten die rätselhaften Scheiben am Himmelszelt wirklich? Carl Gustav Jung analysierte Himmelsphänomene nicht als bloße Flugobjekte, sondern als mächtiges Seelensymbol der Moderne. In Zeiten kollektiver Not projiziert die menschliche Psyche ihre Sehnsucht nach Ordnung und Ganzheit an das Firmament. Diese Episode entschlüsselt die Verbindung zwischen antiker Alchemie, dem kosmischen Mandala und der verborgenen Dimension unseres eigenen Bewusstseins.</p><p>Video: <a href="https://youtu.be/qeyB0Q3w20g">https://youtu.be/qeyB0Q3w20g</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/carl-jung-und-die-ufos-der-moderne-mythos-den-er-vorhersah-7e58c738d6.mp3" length="17168448" type="audio/mpeg"/>
+      <guid isPermaLink="false">carl-jung-und-die-ufos-der-moderne-mythos-den-er-vorhersah-7e58c738d6</guid>
+      <pubDate>Fri, 23 Oct 2026 10:20:16 +0000</pubDate>
+      <itunes:duration>1430</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>C.G. Jung: Die Ego-Inflation und die verborgene Falle des Erwachens</title>
       <itunes:title>C.G. Jung: Die Ego-Inflation und die verborgene Falle des Erwachens</itunes:title>
