@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 01:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:23:10 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>C.G. Jung: Die Ego-Inflation und die verborgene Falle des Erwachens</title>
+      <itunes:title>C.G. Jung: Die Ego-Inflation und die verborgene Falle des Erwachens</itunes:title>
+      <link>https://youtu.be/4bb52foVUuY</link>
+      <description><![CDATA[<p>Carl Gustav Jung riskierte 1913 seinen Verstand, als er im Roten Buch die Tiefen der menschlichen Psyche ergründete. Dabei stieß er auf eine uralte Gesetzmäßigkeit: Berührt der Verstand das Licht einer höheren Erkenntnis, neigt das Ego dazu, sich selbst als Quelle aufzublähen. Die antiken Mystiker sprachen vom Sturz des Lichtbringers, die moderne Psychologie von spiritueller Inflation. Erfahre, warum echte Reife nicht im Abheben von der Welt liegt, sondern in der bewussten Integration des Schattens und der tiefen Erdung im alltäglichen Leben.</p><p>Video: <a href="https://youtu.be/4bb52foVUuY">https://youtu.be/4bb52foVUuY</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Carl Gustav Jung riskierte 1913 seinen Verstand, als er im Roten Buch die Tiefen der menschlichen Psyche ergründete. Dabei stieß er auf eine uralte Gesetzmäßigkeit: Berührt der Verstand das Licht einer höheren Erkenntnis, neigt das Ego dazu, sich selbst als Quelle aufzublähen. Die antiken Mystiker sprachen vom Sturz des Lichtbringers, die moderne Psychologie von spiritueller Inflation. Erfahre, warum echte Reife nicht im Abheben von der Welt liegt, sondern in der bewussten Integration des Schattens und der tiefen Erdung im alltäglichen Leben.</p><p>Video: <a href="https://youtu.be/4bb52foVUuY">https://youtu.be/4bb52foVUuY</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/inflation-des-ichs-carl-jungs-warnung-vor-spirituellem-gro-e-c43045e0dd.mp3" length="19313206" type="audio/mpeg"/>
+      <guid isPermaLink="false">inflation-des-ichs-carl-jungs-warnung-vor-spirituellem-gro-e-c43045e0dd</guid>
+      <pubDate>Fri, 23 Oct 2026 01:20:24 +0000</pubDate>
+      <itunes:duration>1609</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>33 Wirbelknochen: Die biologische Jakobsleiter des Bewusstseins</title>
       <itunes:title>33 Wirbelknochen: Die biologische Jakobsleiter des Bewusstseins</itunes:title>
