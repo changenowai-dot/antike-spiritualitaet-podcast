@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 21:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:35:29 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Carl Jungs Schattenarbeit: Verdrängte Seelenkräfte in Gold verwandeln</title>
+      <itunes:title>Carl Jungs Schattenarbeit: Verdrängte Seelenkräfte in Gold verwandeln</itunes:title>
+      <link>https://youtu.be/oPfDCoAWIfo</link>
+      <description><![CDATA[<p>Was wir an uns selbst verurteilen und in die Dunkelheit verbannen, ist in Wahrheit die Quelle unserer stärksten Vitalität. Die Mystiker der Antike und der Tiefenpsychologe Carl Gustav Jung wussten: Nur wer hinabsteigt und seine verdrängten Anteile annimmt, erlangt echte innere Souveränität. Erfahre in dieser Episode, wie du verleugnete Emotionen wie Wut und Angst als kostbaren Rohstoff nutzt, Projektionen im Alltag entlarvst und durch seelische Alchemie zu unverfälschter Ganzheit findest.</p><p>Video: <a href="https://youtu.be/oPfDCoAWIfo">https://youtu.be/oPfDCoAWIfo</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Was wir an uns selbst verurteilen und in die Dunkelheit verbannen, ist in Wahrheit die Quelle unserer stärksten Vitalität. Die Mystiker der Antike und der Tiefenpsychologe Carl Gustav Jung wussten: Nur wer hinabsteigt und seine verdrängten Anteile annimmt, erlangt echte innere Souveränität. Erfahre in dieser Episode, wie du verleugnete Emotionen wie Wut und Angst als kostbaren Rohstoff nutzt, Projektionen im Alltag entlarvst und durch seelische Alchemie zu unverfälschter Ganzheit findest.</p><p>Video: <a href="https://youtu.be/oPfDCoAWIfo">https://youtu.be/oPfDCoAWIfo</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/das-gold-im-schatten-warum-deine-gro-ten-gaben-im-dunkeln-li-6f10e19518.mp3" length="16743697" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-gold-im-schatten-warum-deine-gro-ten-gaben-im-dunkeln-li-6f10e19518</guid>
+      <pubDate>Fri, 23 Oct 2026 21:33:00 +0000</pubDate>
+      <itunes:duration>1395</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Carl Jungs Turmbau: Die Architektur deiner Seele</title>
       <itunes:title>Carl Jungs Turmbau: Die Architektur deiner Seele</itunes:title>
