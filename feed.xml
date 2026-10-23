@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 13:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:22:05 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Carl Jungs Turmbau: Die Architektur deiner Seele</title>
+      <itunes:title>Carl Jungs Turmbau: Die Architektur deiner Seele</itunes:title>
+      <link>https://youtu.be/Zoi1PI4mUfU</link>
+      <description><![CDATA[<p>Warum zog sich Carl Gustav Jung an das Ufer des Zürcher Obersees zurück, um ohne Strom einen Turm aus rohem Stein zu errichten? Der Turm von Bollingen war kein gewöhnliches Refugium, sondern ein architektonisches Abbild der Individuation. In dieser Episode erfährst du, wie Jung Alchemie, Schattenarbeit und Aktive Imagination nutzte, um das Ego zu überwinden und das wahre Selbst freizulegen. Eine Reise in die Tiefenpsychologie und eine zeitlose Anleitung, wie du deine eigene innere Festung gegen die Hektik der modernen Welt errichtest.</p><p>Video: <a href="https://youtu.be/Zoi1PI4mUfU">https://youtu.be/Zoi1PI4mUfU</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Warum zog sich Carl Gustav Jung an das Ufer des Zürcher Obersees zurück, um ohne Strom einen Turm aus rohem Stein zu errichten? Der Turm von Bollingen war kein gewöhnliches Refugium, sondern ein architektonisches Abbild der Individuation. In dieser Episode erfährst du, wie Jung Alchemie, Schattenarbeit und Aktive Imagination nutzte, um das Ego zu überwinden und das wahre Selbst freizulegen. Eine Reise in die Tiefenpsychologie und eine zeitlose Anleitung, wie du deine eigene innere Festung gegen die Hektik der modernen Welt errichtest.</p><p>Video: <a href="https://youtu.be/Zoi1PI4mUfU">https://youtu.be/Zoi1PI4mUfU</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/carl-jungs-turm-in-bollingen-der-ort-an-dem-er-sich-selbst-6b3a09b431.mp3" length="17095097" type="audio/mpeg"/>
+      <guid isPermaLink="false">carl-jungs-turm-in-bollingen-der-ort-an-dem-er-sich-selbst-6b3a09b431</guid>
+      <pubDate>Fri, 23 Oct 2026 13:20:22 +0000</pubDate>
+      <itunes:duration>1424</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Carl Jungs Himmelsrätsel: Die Ufo-Projektion des kollektiven Unbewussten</title>
       <itunes:title>Carl Jungs Himmelsrätsel: Die Ufo-Projektion des kollektiven Unbewussten</itunes:title>
