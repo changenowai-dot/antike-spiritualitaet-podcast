@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 05:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:22:08 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Helena Blavatsky: Die verborgene Physik deines Schicksals</title>
+      <itunes:title>Helena Blavatsky: Die verborgene Physik deines Schicksals</itunes:title>
+      <link>https://youtu.be/mO18Xf73m-A</link>
+      <description><![CDATA[<p>Karma ist keine moralische Bestrafung, sondern ein unbestechliches Gesetz kosmischer Harmonie. Die theosophischen Lehren von Helena Blavatsky enthüllen, wie jeder Gedanke und jede Absicht unauslöschliche Muster im feinstofflichen Äther hinterlässt. Wer die Dynamik von Ursache und Wirkung auf Seelenebene durchschaut, beendet das Gefühl der Ohnmacht und gewinnt die volle Schöpferkraft über das eigene Leben zurück.</p><p>Video: <a href="https://youtu.be/mO18Xf73m-A">https://youtu.be/mO18Xf73m-A</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Karma ist keine moralische Bestrafung, sondern ein unbestechliches Gesetz kosmischer Harmonie. Die theosophischen Lehren von Helena Blavatsky enthüllen, wie jeder Gedanke und jede Absicht unauslöschliche Muster im feinstofflichen Äther hinterlässt. Wer die Dynamik von Ursache und Wirkung auf Seelenebene durchschaut, beendet das Gefühl der Ohnmacht und gewinnt die volle Schöpferkraft über das eigene Leben zurück.</p><p>Video: <a href="https://youtu.be/mO18Xf73m-A">https://youtu.be/mO18Xf73m-A</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/blavatsky-uber-karma-das-gesetz-von-ursache-und-wirkung-der-b629944175.mp3" length="18342391" type="audio/mpeg"/>
+      <guid isPermaLink="false">blavatsky-uber-karma-das-gesetz-von-ursache-und-wirkung-der-b629944175</guid>
+      <pubDate>Sun, 25 Oct 2026 06:20:11 +0000</pubDate>
+      <itunes:duration>1528</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Carl Jungs Schattenarbeit: Verdrängte Seelenkräfte in Gold verwandeln</title>
       <itunes:title>Carl Jungs Schattenarbeit: Verdrängte Seelenkräfte in Gold verwandeln</itunes:title>
