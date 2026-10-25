@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 08:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:22:45 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Die Nachtmeerfahrt: Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</title>
+      <itunes:title>Die Nachtmeerfahrt: Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</itunes:title>
+      <link>https://youtu.be/1JUJsrleHHE</link>
+      <description><![CDATA[<p>Wenn das Leben zusammenbricht, beginnt in Wahrheit eine kosmische Verwandlung. Antike Mysterien und Tiefenpsychologie zeigen, warum Krisen keine Fehlfunktionen des Universums sind, sondern die präzisen Werkzeuge unserer seelischen Erneuerung. Erfahre, wie du den Abgrund der Finsternis als Mutterleib deines neuen Bewusstseins verstehst und den Mut findest, deine Schatten zu integrieren.</p><p>Video: <a href="https://youtu.be/1JUJsrleHHE">https://youtu.be/1JUJsrleHHE</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Wenn das Leben zusammenbricht, beginnt in Wahrheit eine kosmische Verwandlung. Antike Mysterien und Tiefenpsychologie zeigen, warum Krisen keine Fehlfunktionen des Universums sind, sondern die präzisen Werkzeuge unserer seelischen Erneuerung. Erfahre, wie du den Abgrund der Finsternis als Mutterleib deines neuen Bewusstseins verstehst und den Mut findest, deine Schatten zu integrieren.</p><p>Video: <a href="https://youtu.be/1JUJsrleHHE">https://youtu.be/1JUJsrleHHE</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-10/die-nachtmeerfahrt-carl-jung-uber-die-dunkle-phase-vor-jeder-33cc7b10cd.mp3" length="16507655" type="audio/mpeg"/>
+      <guid isPermaLink="false">die-nachtmeerfahrt-carl-jung-uber-die-dunkle-phase-vor-jeder-33cc7b10cd</guid>
+      <pubDate>Sun, 25 Oct 2026 09:20:10 +0000</pubDate>
+      <itunes:duration>1375</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</title>
       <itunes:title>Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</itunes:title>
