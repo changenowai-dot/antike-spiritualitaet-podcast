@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 02:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:37:12 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Das uralte Geheimnis der Pistis Sophia in deinem Verstand</title>
+      <itunes:title>Das uralte Geheimnis der Pistis Sophia in deinem Verstand</itunes:title>
+      <link>https://youtu.be/jIirsoVkVNg</link>
+      <description><![CDATA[<p>Ein im Wüstensand gefundener Text enthüllt den dramatischen Absturz deines Bewusstseins in die materielle Dichte. Erfahre, warum deine Seele in der Illusion gefangen ist. Die gnostische Erzählung der Pistis Sophia zeigt uns den Weg zurück zu unserem wahren göttlichen Ursprung.</p><p>Video: <a href="https://youtu.be/jIirsoVkVNg">https://youtu.be/jIirsoVkVNg</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Ein im Wüstensand gefundener Text enthüllt den dramatischen Absturz deines Bewusstseins in die materielle Dichte. Erfahre, warum deine Seele in der Illusion gefangen ist. Die gnostische Erzählung der Pistis Sophia zeigt uns den Weg zurück zu unserem wahren göttlichen Ursprung.</p><p>Video: <a href="https://youtu.be/jIirsoVkVNg">https://youtu.be/jIirsoVkVNg</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/pistis-sophia-das-mystische-drama-des-gefallenen-bewusstsein-0b1b15645c.mp3" length="18357438" type="audio/mpeg"/>
+      <guid isPermaLink="false">pistis-sophia-das-mystische-drama-des-gefallenen-bewusstsein-0b1b15645c</guid>
+      <pubDate>Fri, 27 Nov 2026 03:35:23 +0000</pubDate>
+      <itunes:duration>1529</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Das verbotene Philippusevangelium und das innere Brautgemach</title>
+      <itunes:title>Das verbotene Philippusevangelium und das innere Brautgemach</itunes:title>
+      <link>https://youtu.be/SeIM-AXCJd4</link>
+      <description><![CDATA[<p>Im Jahr 1945 barg ein Tongefäß im ägyptischen Wüstensand Texte, die sechzehnhundert Jahre lang verboten waren. Das Philippusevangelium verkündet keine Schuld, sondern einen verhüllten Weg zur Befreiung des Geistes: das Mysterium des Brautgemachs. Erfahre, wie die gnostischen Meister die Trennung im Bewusstsein überwanden und warum dieses antike Wissen auch heute noch deine innere Wirklichkeit grundlegend verändern kann. Erlebe eine Reise jenseits starrer Dogmen direkt in die Stille deines eigenen Ursprungs.</p><p>Video: <a href="https://youtu.be/SeIM-AXCJd4">https://youtu.be/SeIM-AXCJd4</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Im Jahr 1945 barg ein Tongefäß im ägyptischen Wüstensand Texte, die sechzehnhundert Jahre lang verboten waren. Das Philippusevangelium verkündet keine Schuld, sondern einen verhüllten Weg zur Befreiung des Geistes: das Mysterium des Brautgemachs. Erfahre, wie die gnostischen Meister die Trennung im Bewusstsein überwanden und warum dieses antike Wissen auch heute noch deine innere Wirklichkeit grundlegend verändern kann. Erlebe eine Reise jenseits starrer Dogmen direkt in die Stille deines eigenen Ursprungs.</p><p>Video: <a href="https://youtu.be/SeIM-AXCJd4">https://youtu.be/SeIM-AXCJd4</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/das-philippusevangelium-das-mysterium-des-brautgemachs-b857c9f55e.mp3" length="23988915" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-philippusevangelium-das-mysterium-des-brautgemachs-b857c9f55e</guid>
+      <pubDate>Fri, 27 Nov 2026 03:35:08 +0000</pubDate>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Die Nachtmeerfahrt: Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</title>
       <itunes:title>Die Nachtmeerfahrt: Warum deine tiefste Lebenskrise ein kosmischer Weckruf ist</itunes:title>
