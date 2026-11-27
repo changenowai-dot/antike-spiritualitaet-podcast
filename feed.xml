@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 05:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:44:10 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Das alchemistische Geheimnis der Seelenwandlung</title>
+      <itunes:title>Das alchemistische Geheimnis der Seelenwandlung</itunes:title>
+      <link>https://youtu.be/1jsS7sqhMuc</link>
+      <description><![CDATA[<p>Carl Jungs rotes Buch enthüllt die antike Alchemie als tiefgreifende Psychologie der Seelenreifung. Die Verwandlung von Blei in Gold ist in Wahrheit der innere Weg durch vier exakte Phasen des Bewusstseins: Nigredo, Albedo, Citrinitas und Rubedo. Erfahre, wie du Krisen und Schattenanteile in deine größte schöpferische Kraft verwandelst und die uralten Gesetzmäßigkeiten der Seele für deinen eigenen Lebensweg nutzt.</p><p>Video: <a href="https://youtu.be/1jsS7sqhMuc">https://youtu.be/1jsS7sqhMuc</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Carl Jungs rotes Buch enthüllt die antike Alchemie als tiefgreifende Psychologie der Seelenreifung. Die Verwandlung von Blei in Gold ist in Wahrheit der innere Weg durch vier exakte Phasen des Bewusstseins: Nigredo, Albedo, Citrinitas und Rubedo. Erfahre, wie du Krisen und Schattenanteile in deine größte schöpferische Kraft verwandelst und die uralten Gesetzmäßigkeiten der Seele für deinen eigenen Lebensweg nutzt.</p><p>Video: <a href="https://youtu.be/1jsS7sqhMuc">https://youtu.be/1jsS7sqhMuc</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/c-g-jung-und-die-4-phasen-der-wandlung-die-reifung-der-seel-4f918d86a0.mp3" length="20223208" type="audio/mpeg"/>
+      <guid isPermaLink="false">c-g-jung-und-die-4-phasen-der-wandlung-die-reifung-der-seel-4f918d86a0</guid>
+      <pubDate>Fri, 27 Nov 2026 06:42:58 +0000</pubDate>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Der Rechenfehler der Antike: Die verborgenen Zyklen der Zeitalter</title>
       <itunes:title>Der Rechenfehler der Antike: Die verborgenen Zyklen der Zeitalter</itunes:title>
