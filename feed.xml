@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 07:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:46:44 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Das verbotene Thomas-Evangelium und der Funke in dir</title>
+      <itunes:title>Das verbotene Thomas-Evangelium und der Funke in dir</itunes:title>
+      <link>https://youtu.be/BoErd9DcBdk</link>
+      <description><![CDATA[<p>Im Jahr 1945 wurde in der ägyptischen Wüste ein Tonkrug mit einhundertvierzehn geheimen Sprüchen gefunden, die von der Kirche jahrhundertelang verheimlicht wurden. Das Thomas-Evangelium enthält keine Wunderberichte oder Dogmen, sondern eine präzise Anleitung zur Selbsterkenntnis. Erfahre, wie dieses antike Wissen deine Sicht auf das Bewusstsein, die Illusion der Trennung und deine eigene göttliche Herkunft für immer verändern kann.</p><p>Video: <a href="https://youtu.be/BoErd9DcBdk">https://youtu.be/BoErd9DcBdk</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Im Jahr 1945 wurde in der ägyptischen Wüste ein Tonkrug mit einhundertvierzehn geheimen Sprüchen gefunden, die von der Kirche jahrhundertelang verheimlicht wurden. Das Thomas-Evangelium enthält keine Wunderberichte oder Dogmen, sondern eine präzise Anleitung zur Selbsterkenntnis. Erfahre, wie dieses antike Wissen deine Sicht auf das Bewusstsein, die Illusion der Trennung und deine eigene göttliche Herkunft für immer verändern kann.</p><p>Video: <a href="https://youtu.be/BoErd9DcBdk">https://youtu.be/BoErd9DcBdk</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/das-thomas-evangelium-das-himmelreich-ist-in-dir-und-au-er-d-0e20747c25.mp3" length="16346845" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-thomas-evangelium-das-himmelreich-ist-in-dir-und-au-er-d-0e20747c25</guid>
+      <pubDate>Fri, 27 Nov 2026 08:45:33 +0000</pubDate>
+      <itunes:duration>1362</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Das heilige Schwingungstor: Wie dein Trommelfell die Wirklichkeit formt</title>
       <itunes:title>Das heilige Schwingungstor: Wie dein Trommelfell die Wirklichkeit formt</itunes:title>
