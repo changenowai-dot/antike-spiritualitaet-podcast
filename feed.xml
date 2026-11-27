@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/antike-spiritualitaet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
     <copyright>© 2026 Antike Spiritualität</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 06:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:46:04 +0000</lastBuildDate>
     <description>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</description>
     <itunes:summary>Alte Weisheit für dein Erwachen: Carl Jung, Hermes Trismegistos, Thot, die Gnosis, vergessene Evangelien und die esoterische Deutung alter Schriften – ruhig erzählt, tiefgründig, zum Zuhören und Nachdenken.</itunes:summary>
     <itunes:author>Antike Spiritualität</itunes:author>
@@ -17,6 +17,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="ximkyu@googlemail.com">yes</podcast:locked>
+    <item>
+      <title>Das heilige Schwingungstor: Wie dein Trommelfell die Wirklichkeit formt</title>
+      <itunes:title>Das heilige Schwingungstor: Wie dein Trommelfell die Wirklichkeit formt</itunes:title>
+      <link>https://youtu.be/nPN4luvtBys</link>
+      <description><![CDATA[<p>Das Trommelfell ist mehr als eine biologische Schutzhülle – es ist das magische Resonanztor zwischen Materie und Geist. Entdecke, wie die Priester der Antike und Pythagoras die Gesetze des Klangs nutzten, um das Bewusstsein zu erheben. Eine Reise durch Tempelakustik, Infraschall und die Alchemie des Hörens.</p><p>Video: <a href="https://youtu.be/nPN4luvtBys">https://youtu.be/nPN4luvtBys</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Das Trommelfell ist mehr als eine biologische Schutzhülle – es ist das magische Resonanztor zwischen Materie und Geist. Entdecke, wie die Priester der Antike und Pythagoras die Gesetze des Klangs nutzten, um das Bewusstsein zu erheben. Eine Reise durch Tempelakustik, Infraschall und die Alchemie des Hörens.</p><p>Video: <a href="https://youtu.be/nPN4luvtBys">https://youtu.be/nPN4luvtBys</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/das-trommelfell-das-schwingungstor-in-der-antiken-akustik-a444788eae.mp3" length="18114499" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-trommelfell-das-schwingungstor-in-der-antiken-akustik-a444788eae</guid>
+      <pubDate>Fri, 27 Nov 2026 07:44:45 +0000</pubDate>
+      <itunes:duration>1509</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Warum manche Menschen dein Bewusstsein sofort verändern</title>
+      <itunes:title>Warum manche Menschen dein Bewusstsein sofort verändern</itunes:title>
+      <link>https://youtu.be/6uapGz8wdgg</link>
+      <description><![CDATA[<p>Manche Begegnungen im Leben sind kein Zufall, sondern präzise verabredete Knotenpunkte auf deinem Lebensweg. Alte Schriften und moderne Mystik sprechen von Seelenteams und energetischen Verträgen, die wir vor unserer Geburt eingehen. Erfahre in dieser Episode von Antike Spiritualitaet, wie du die unsichtbaren Bande in deinen Beziehungen erkennst, warum schwierige Menschen oft deine größten Lehrer sind und wie du deine wahre Frequenz lebst.</p><p>Video: <a href="https://youtu.be/6uapGz8wdgg">https://youtu.be/6uapGz8wdgg</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Manche Begegnungen im Leben sind kein Zufall, sondern präzise verabredete Knotenpunkte auf deinem Lebensweg. Alte Schriften und moderne Mystik sprechen von Seelenteams und energetischen Verträgen, die wir vor unserer Geburt eingehen. Erfahre in dieser Episode von Antike Spiritualitaet, wie du die unsichtbaren Bande in deinen Beziehungen erkennst, warum schwierige Menschen oft deine größten Lehrer sind und wie du deine wahre Frequenz lebst.</p><p>Video: <a href="https://youtu.be/6uapGz8wdgg">https://youtu.be/6uapGz8wdgg</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/antike-spiritualitaet-audio-2026-11/das-seelenteam-warum-wir-mit-vertrauten-seelen-inkarnieren-43369ead1a.mp3" length="19035159" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-seelenteam-warum-wir-mit-vertrauten-seelen-inkarnieren-43369ead1a</guid>
+      <pubDate>Fri, 27 Nov 2026 07:44:37 +0000</pubDate>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Das alchemistische Geheimnis der Seelenwandlung</title>
       <itunes:title>Das alchemistische Geheimnis der Seelenwandlung</itunes:title>
